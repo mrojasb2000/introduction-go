@@ -1,0 +1,1 @@
+curl -d '{"id":"3","firstname":"John","lastname":"Doe","address":{"city":"City X","state":"State X"}}' -H "Content-Type: application/json" -X POST http://localhost:8080/peopl
